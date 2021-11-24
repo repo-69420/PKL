@@ -1,0 +1,588 @@
+,event_year,event_month,district,landslide_size,fatality_count,injury_count,latitude,longitude
+0,2009,07,Dailekh,medium,1.0,0.0,28.8378,81.708
+1,2009,07,Kaski,medium,3.0,0.0,28.2039,83.9806
+2,2009,07,Tanahu,medium,2.0,0.0,27.9447,84.2279
+3,2009,07,Kathmandu,large,13.0,0.0,28.0,85.71
+4,2009,07,Syangja,medium,5.0,0.0,28.1046,83.8791
+5,2011,07,Arghakhanchi,medium,2.0,0.0,27.7394,83.5754
+6,2011,07,Baglung,medium,0.0,0.0,28.3683,83.2934
+7,2011,07,Gulmi,medium,0.0,0.0,28.0889,83.2934
+8,2011,09,Rolpa,medium,7.0,0.0,28.3875,82.6474
+9,2013,07,Salyan,medium,0.0,0.0,28.4311,82.1847
+10,2013,07,Rukum,medium,0.0,0.0,28.6202,82.4393
+11,2016,09,Kaski,large,4.0,2.0,28.145796,84.06901500000001
+12,2017,07,Chitwan,medium,0.0,0.0,27.83196401,84.54704620999999
+13,2016,09,Dhading,small,1.0,0.0,27.769034,84.85463200000001
+14,2016,09,Taplejung,large,4.0,10.0,27.513641,87.640957
+15,2016,09,Pasang Lhamu Highway,large,0.0,0.0,27.833565,85.201673
+16,2017,07,Bhojpur,medium,2.0,0.0,27.167781,87.055222
+17,2016,09,Myagdi,medium,0.0,0.0,28.377188,83.498645
+18,2017,07,Sindhupalchok,small,0.0,0.0,27.90362599,85.91050294
+19,2017,07,"Pasang Lhamu Highway, Nepal",unknown,0.0,0.0,27.878121,85.143062
+20,2016,08,Dhading,large,0.0,0.0,28.069957,85.01
+21,2016,08,"Jugu, Nepal",small,2.0,1.0,27.6835,86.1804
+22,2016,08,"Galeshwor, Beni, Nepal",small,1.0,0.0,28.372874000000003,83.567989
+23,2017,06,"Talladehi, Nepal",medium,0.0,0.0,29.60012,80.63000199999999
+24,2016,08,Mugu,large,0.0,0.0,29.48,82.2896
+25,2017,06,Lamjung,medium,0.0,0.0,28.301686,84.386742
+26,2017,06,Kaski,medium,0.0,1.0,28.28120123,83.86441477000001
+27,2017,06,Taplejung,medium,0.0,0.0,27.33861278,87.67107225000001
+28,2017,06,Taplejung,medium,0.0,0.0,27.33861278,87.67107225000001
+29,2017,07,"Rajwara, Gaumukhi Rural Municipality, Nepal",medium,3.0,0.0,28.27909521,83.00633062
+30,2017,06,Chitwan,small,0.0,0.0,27.8077847,84.43754872
+31,2017,06,"Matepani Gupta monastery, Pokhara, Nepal",small,0.0,0.0,28.21676766,84.00622259000001
+32,2016,08,Makawanpur,small,2.0,0.0,27.503555,85.21970900000001
+33,2017,07,"Hosrangdi, Mahashila Rural Municipality, Nepal",medium,3.0,0.0,28.06986667,83.65247597
+34,2016,08,Dolakha,large,7.0,0.0,28.007828,86.191717
+35,2017,07,"Lamachaur, Pokhara, Nepal",small,1.0,0.0,28.27254506,83.95706865
+36,2017,07,Tanahu,large,0.0,0.0,28.107142,84.30797700000001
+37,2017,06,"Amden (??), Myadlung Municipality, Eastern Development Region, Nepal",medium,3.0,3.0,27.18732399,87.50256183
+38,2016,08,"Jubitha, Nepal",small,0.0,0.0,29.132062,81.811777
+39,2017,07,"Pasryanga cliff (??), Pokhara, Nepal",small,1.0,0.0,28.24831087,83.97447829000001
+40,2016,09,Chitwan,medium,0.0,0.0,27.767046,84.469745
+41,2016,09,Bara,medium,4.0,0.0,27.943851,83.805661
+42,2016,08,"Khabang, Nepal",small,0.0,0.0,28.239,82.9415
+43,2008,07,Achham,medium,0.0,0.0,29.0833,81.3333
+44,2015,09,Dumre,medium,0.0,0.0,26.9597,86.5598
+45,2016,02,base of Mt Annapurna South at Narchyang VDC,medium,0.0,5.0,28.5873,83.7508
+46,2011,07,Tanahu,medium,0.0,0.0,27.99134853,84.06527738
+47,2016,07,"Dhuseni Shivalaya, Kavre, Nepal",small,1.0,2.0,27.5269,85.5641
+48,2014,02,Mahakali Hwy 10200,large,0.0,0.0,29.58,80.67
+49,2015,08,"Kusma Municipality-1, Maldhunga",medium,0.0,0.0,28.2576,83.6182
+50,2010,08,Nawalparasi,medium,0.0,0.0,27.59,83.88
+51,2007,08,"Hetuda, Kogate",medium,11.0,0.0,27.4211,85.0249
+52,2011,07,Thumki village (200 km northwest of Katmandu),large,6.0,0.0,28.15279111,84.18262
+53,2010,07,Dailekh,medium,0.0,0.0,29.0399,81.7191
+54,2010,09,Sindhupalchok,medium,2.0,0.0,27.7773,85.8416
+55,2010,08,Udayapur,medium,0.0,0.0,27.2485,86.6444
+56,2011,07,Nuwakot,medium,3.0,0.0,27.8871,83.9704
+57,2013,01,Kalikot,medium,0.0,0.0,29.1426,81.8833
+58,2009,08,Tanahu,medium,0.0,0.0,27.9504,84.3075
+59,2015,10,"Khamlalung 57500, Nepal",medium,2.0,2.0,27.2625,87.6017
+60,2015,07,Parbat,small,0.0,0.0,28.2658,83.6117
+61,2010,01,Pyuthan,medium,1.0,0.0,28.12,82.86
+62,2010,08,Myagdi,medium,0.0,0.0,28.3401,83.5983
+63,2011,07,Bhimad-8 and Jemune-6,medium,0.0,0.0,27.9939,84.094
+64,2009,10,"Bindavasini VDCs, Accham district",medium,3.0,0.0,29.2944,81.3
+65,2014,07,Lahan,small,0.0,0.0,28.8389,82.2873
+66,2014,08,Putalibazaar Municipality-9,medium,1.0,0.0,28.0989,83.8734
+67,2014,08,‘Typical Restaurant’ on the banks of Phewa Lake,small,3.0,0.0,28.2134,83.9557
+68,2014,08,Karauja VDC,medium,0.0,0.0,28.3466,85.0058
+69,2013,09,Baglung,medium,0.0,0.0,28.3922,83.1913
+70,2015,05,Kaphaldanda in Ramche VDC -9,medium,0.0,0.0,28.3928,83.5942
+71,2013,09,Baglung,medium,0.0,0.0,28.2399,83.2266
+72,2013,08,Jajarkot,medium,0.0,0.0,28.935,82.3125
+73,2013,08,Myagdi,medium,0.0,0.0,28.3742,83.5214
+74,2011,09,Gorkha,medium,0.0,0.0,28.4115,84.7943
+75,2010,09,Baitadi,medium,0.0,0.0,29.477,80.3491
+76,2013,09,"Vedetar, Eastern Region",medium,0.0,0.0,26.8722,87.3303
+77,2015,05,Barpak,small,0.0,0.0,28.2135,84.7277
+78,2007,09,Rautahat,medium,1.0,0.0,27.9167,84.25
+79,2010,07,"Phedikhola(?), Shyangja district",medium,2.0,0.0,28.0063,83.7826
+80,2014,07,Lele,small,3.0,0.0,27.5687,85.34
+81,2013,06,Rolpa,medium,0.0,0.0,28.3536,82.3997
+82,2016,06,"Mechi Highway at  Lyangba, Dokhu, Nepal",medium,0.0,0.0,26.8823,87.9125
+83,2016,06,Taplejung,medium,2.0,2.0,27.6276,87.7924
+84,2010,05,Syangja,medium,3.0,0.0,28.11,83.68
+85,2011,08,Dalit settlement in Seri VDC-4,medium,0.0,0.0,29.5311,81.9616
+86,2008,09,Bardiya,medium,6.0,0.0,28.51,81.48
+87,2011,09,Sankhuwasabha,medium,5.0,0.0,27.4082091,87.29003611
+88,2010,09,"Araniko hwy between Tatopani and Bahrabise, Sindhupalchowk, Bagmati",medium,0.0,0.0,27.8732,85.9259
+89,2013,07,Dang,medium,0.0,0.0,28.0583,82.402
+90,2015,06,Taplejung,large,53.0,8.0,27.36,87.6681
+91,2010,07,"Darechowk(Darechok), Kahare(Khahare) River, Prithvi highway between Mugling and Narayanghat",medium,0.0,0.0,27.81963827,84.46652548
+92,2015,08,Suikhet in Hemja,medium,0.0,0.0,28.2887,83.8974
+93,2013,06,Taplejung,large,9.0,0.0,27.4513,87.6093
+94,2013,07,The Mugling-Narayanghat Road Section Near Dasdhunga,medium,0.0,0.0,27.7801,84.4384
+95,2007,09,Sindhuli,large,3.0,0.0,27.2667,85.9667
+96,2015,08,Lamjung,medium,0.0,0.0,28.2872,84.2015
+97,2011,07,Udayapur,medium,0.0,0.0,26.8998,86.7014
+98,2009,09,Kathmandu,large,14.0,0.0,27.4167,86.6667
+99,2012,09,Syangja,medium,4.0,0.0,28.023,83.8049
+100,2016,04,Dolakha,medium,1.0,1.0,27.5108,86.02
+101,2011,07,Rukum,large,13.0,0.0,28.7434,82.4753
+102,2016,06,Darchula,medium,1.0,0.0,29.6394,80.7179
+103,2011,07,Bandipur,medium,1.0,0.0,27.9333,84.4167
+104,2011,07,Kathmandu,medium,1.0,0.0,28.0889,85.6352
+105,2011,07,Kaski,medium,2.0,0.0,28.2638,83.9725
+106,2011,07,Khairenitar-Bhimad Road,medium,0.0,0.0,28.0075,84.088
+107,2013,07,Syangja,medium,1.0,0.0,27.9142,83.7876
+108,2013,07,Solukhumbu,medium,0.0,0.0,27.5001,86.8669
+109,2010,08,Bajura,medium,1.0,0.0,29.4605,81.682
+110,2009,09,Doti,medium,3.0,0.0,29.3083,81.057
+111,2011,08,Mugu,medium,0.0,0.0,29.5023,82.2504
+112,2016,08,Dhading,medium,0.0,0.0,27.8009,84.8423
+113,2007,07,Gulmi,medium,0.0,0.0,28.0764,83.2519
+114,2015,08,Daud VDC-1,medium,1.0,0.0,29.3064,81.0561
+115,2015,06,Budhigandaki River near Khanibesi,medium,0.0,0.0,28.1881,84.8711
+116,2015,05,"Miteripul, Chaku, Jhyalebhir, Nayapur, Daklang Paharo and Jhirpu, Tatopani along Araniko Highway",small,16.0,0.0,27.9715,85.9623
+117,2013,12,Sarmoli Vdc,medium,2.0,2.0,29.3577,80.3109
+118,2013,06,Gamgadhi-Nagma Road,medium,0.0,0.0,29.5326,82.1482
+119,2010,08,"Batase and Sisne villages, Lelep VDC, ",medium,0.0,0.0,27.7276,88.0446
+120,2010,08,"Kakanda VDC-7(?), Makwanpur district",medium,1.0,0.0,27.6041,84.8603
+121,2010,07,Dhading,medium,5.0,0.0,28.05,84.95
+122,2016,07,Mugu,medium,0.0,0.0,29.5679,82.283
+123,2015,08,Dailekh,medium,3.0,1.0,28.8425,81.7097
+124,2011,07,Achham,medium,3.0,0.0,29.0396,81.2519
+125,2013,07,Kalikot,medium,0.0,0.0,29.1309,81.6631
+126,2016,06,Rasuwa,small,0.0,0.0,28.0336,85.2178
+127,2010,09,"Sisneri rd(?), between Hetuda and Pharping",medium,0.0,0.0,27.509,85.1505
+128,2007,08,Baglung,medium,5.0,0.0,28.3323,83.7438
+129,2007,07,Bajura,medium,3.0,0.0,29.356,81.3098
+130,2011,06,"Bhanumati-8, Damauli",medium,1.0,0.0,28.0004,84.033
+131,2011,08,Kathmandu,medium,5.0,0.0,28.799,82.4712
+132,2012,06,Palpa,medium,0.0,0.0,27.828,83.6349
+133,2014,08,Rak-2,medium,2.0,2.0,28.4414,82.624
+134,2013,07,Chitwan,medium,0.0,0.0,27.5,84.6663
+135,2013,07,Dolakha,medium,0.0,0.0,27.7898,86.3499
+136,2016,07,Gulmi,medium,1.0,0.0,28.1347,83.2369
+137,2014,08,Adhikarichaur-4,medium,1.0,0.0,28.4333,83.1202
+138,2010,08,Gulmi,medium,0.0,0.0,28.1171,83.2497
+139,2013,06,Dailekh,medium,7.0,0.0,28.8519,81.7086
+140,2016,09,Deviisthan-5,medium,1.0,0.0,28.4499,83.3453
+141,2013,09,Baglung,medium,0.0,0.0,28.3328,83.3742
+142,2010,07,"Hemja village, Lekhnath municipality",medium,0.0,0.0,28.1605,84.0907
+143,2008,09,"Siddhartha Highway, near Siddhababa Temple",medium,0.0,0.0,27.72,83.4724
+144,2014,08,Chunwang VDC-8,medium,1.0,1.0,28.5237,82.5891
+145,2011,07,Nuwakot,medium,4.0,0.0,27.9358,85.1893
+146,2014,08,Banskharka VDC,medium,2.0,0.0,27.8953,85.6016
+147,2015,07,Harkate-Kiteni section of Mechi highway,medium,0.0,0.0,26.8366,88.0839
+148,2016,06,Jumla,medium,0.0,0.0,29.4596,82.0446
+149,2007,08,Siddhartha Highway at Dovan VDC-5,medium,0.0,0.0,27.9271,83.529
+150,2011,07,Palpa,medium,2.0,0.0,27.8173,83.4643
+151,2008,08,Tanahu,medium,2.0,0.0,28.01031874,84.37740613999999
+152,2010,07,Dhading,medium,0.0,0.0,27.81229512,84.67982275
+153,2007,09,Sankhuwasabha,medium,2.0,0.0,27.3667,87.2167
+154,2014,07,Dhading,small,0.0,0.0,27.8126,84.8051
+155,2015,08,Kalon cliff in Api Municipality-6,medium,0.0,0.0,29.8587,80.5547
+156,2010,07,Baglung,medium,0.0,0.0,28.2649,83.7843
+157,2016,07,"near Kamala River and BP Highway, Karkare, Kamalamai, Nepal",medium,0.0,4.0,27.21545164,85.91452544
+158,2010,08,Bajura,medium,7.0,0.0,29.4469,81.4867
+159,2016,07,Taplejung,large,0.0,0.0,27.4159,87.6909
+160,2009,11,Lalitpur,medium,1.0,0.0,27.5,85.35
+161,2011,08,Changunarayan Temple,small,0.0,0.0,27.7165,85.4279
+162,2015,08,Nuwakot,medium,5.0,6.0,27.8569,85.1287
+163,2009,08,Dadeldhura,medium,1.0,0.0,29.3083,80.5792
+164,2010,06,Udayapur,medium,0.0,0.0,26.97,86.74
+165,2008,09,Doti,medium,5.0,0.0,29.11803174,80.67774011
+166,2011,08,Jajarkot,medium,3.0,0.0,28.8687,82.1707
+167,2014,09,Marauche Community Forest,medium,0.0,0.0,28.285,83.85210000000001
+168,2014,06,Dadeldhura,small,0.0,0.0,29.2983,80.7651
+169,2009,08,Gulmi,medium,0.0,0.0,28.25,83.1792
+170,2014,08,Madevdanda of Sisneri,medium,0.0,0.0,27.5742,85.1509
+171,2012,10,Ilam,large,11.0,0.0,26.8016,88.0499
+172,2007,08,Biratnagar,medium,0.0,0.0,26.4596,87.2758
+173,2014,06,Gulmi,small,9.0,0.0,28.0872,83.2935
+174,2016,07,"Phidim-Raanke section of the Mechi Highway at Sandim, Phidim-2, Nepal",medium,0.0,0.0,27.1005,87.7831
+175,2016,05,Kalikot,medium,4.0,8.0,29.158,81.5714
+176,2009,10,Dadeldhura,large,12.0,0.0,29.2833,80.675
+177,2012,06,Bajura,medium,3.0,0.0,29.3588,81.31
+178,2007,08,Surkhet,medium,0.0,0.0,28.601,81.601
+179,2012,09,"Hetaunda-Kulekhani-Pharping highway, Sisneri-5",medium,0.0,0.0,27.5684,85.2254
+180,2016,07,"Sola Bhanjyang, Bhimfedi-5, Makwanpur, Nepal",medium,3.0,0.0,27.5567,85.1173
+181,2014,08,Hugdishir-3,medium,1.0,0.0,28.1296,83.5004
+182,2007,08,Pyuthan,medium,6.0,0.0,27.9167,83.0833
+183,2014,08,Ramidanda,medium,2.0,6.0,28.9446,82.2494
+184,2014,08,Dang,large,9.0,0.0,27.9911,82.3018
+185,2014,09,Rolpa,medium,3.0,0.0,28.3921,82.4696
+186,2007,09,Bhairavsthan of Bhairavsthan VDC and Laghuwa of Deurali VDC,medium,0.0,0.0,27.8667,83.4833
+187,2012,06,Tanahu,medium,7.0,0.0,27.9526,84.227
+188,2010,08,Myagdi,medium,0.0,0.0,28.2653,83.6032
+189,2015,06,"Kerauja, near Budhi Gandaki River",large,0.0,0.0,28.266,84.8942
+190,2010,08,Taplejung,medium,5.0,0.0,27.35,87.6667
+191,2014,06,Gulmi,medium,7.0,0.0,28.0816,83.2934
+192,2010,10,Palpa,medium,0.0,0.0,27.88159864,83.77762394000001
+193,2016,07,Sindhupalchok,medium,0.0,3.0,27.8883,85.5097
+194,2009,09,Ramechhap,medium,2.0,0.0,27.3667,86.0868
+195,2014,06,Pyuthan,medium,3.0,0.0,28.0054,82.68
+196,2010,07,"Jawang, Jogimara VDC-2, Prithvi highway between Muglin and Naubise",medium,0.0,0.0,27.80766085,84.69570744
+197,2015,08,Kathmandu,medium,1.0,0.0,28.0297,85.0934
+198,2013,08,"Janaprabha Higher Secondary School, Liku",medium,1.0,0.0,29.0387,82.7442
+199,2010,08,Panchthar,medium,1.0,0.0,27.07,87.73
+200,2016,08,Ilam,medium,0.0,0.0,26.7973,88.1389
+201,2015,04,Ghoratabela,large,250.0,0.0,28.2001,85.4611
+202,2015,07,Lamjung,medium,0.0,0.0,28.2631,84.2461
+203,2016,07,Pyuthan,large,3.0,0.0,28.2091,82.8541
+204,2013,08,Baglung,medium,0.0,0.0,28.2741,83.7417
+205,2011,08,Parbat,medium,0.0,0.0,28.1901,83.6972
+206,2013,09,Khotang,medium,2.0,0.0,27.3414,86.7506
+207,2010,09,"Hetauda-Kulekhani rd, Naryani province",medium,0.0,0.0,27.5086,85.0855
+208,2016,10,Mahakali river at Bangabagad,medium,0.0,0.0,29.8521,80.553
+209,2014,06,Tanahu,small,1.0,0.0,28.2912,83.9422
+210,2012,07,Parbat,medium,0.0,0.0,28.0458,83.6695
+211,2011,07,Okhaldhunga,medium,0.0,0.0,27.3167,86.5
+212,2010,07,Dhading,medium,0.0,0.0,28.02,84.96
+213,2013,07,Nawalparasi,medium,0.0,0.0,27.7115,83.9072
+214,2015,06,primary health centre in the northern Kolti,medium,0.0,0.0,29.5089,81.6693
+215,2015,08,Nala of Tukuchha,medium,0.0,0.0,27.6788,85.514
+216,2016,07,Pyuthan,medium,5.0,0.0,28.2856,83.0426
+217,2014,08,Shaktikhor-2,medium,1.0,0.0,27.737,84.6073
+218,2016,10,Ainapahara in Anbukhaireni Municipality-6,medium,0.0,0.0,27.8987,84.5386
+219,2015,05,"khukondole, Tatopani",medium,0.0,0.0,28.0257,85.7262
+220,2016,07,Mugu,medium,0.0,0.0,29.5687,82.2837
+221,2013,06,Dailekh,medium,0.0,0.0,29.1145,81.6865
+222,2012,08,Okhaldhunga,medium,0.0,0.0,27.3172,86.5
+223,2016,08,Taplejung,small,0.0,0.0,27.4503,87.74
+224,2014,06,Pyuthan,small,4.0,0.0,28.0084,82.821
+225,2015,08,Phedi,medium,0.0,0.0,28.2924,83.871
+226,2011,07,Tanahu,medium,1.0,0.0,28.0537,83.961
+227,2008,08,Ilam,medium,0.0,0.0,26.9122,87.919
+228,2009,08,Sankhuwasabha,medium,0.0,0.0,27.6072,86.9985
+229,2016,07,Chitwan,medium,0.0,0.0,27.8324,84.5512
+230,2015,08,Nuwakot,medium,5.0,0.0,27.8426,85.3418
+231,2015,08,Daud VDC-3,medium,5.0,1.0,29.346,81.0083
+232,2016,10,Sukaunda hill at Kulekhani,medium,0.0,0.0,27.5778,85.1717
+233,2015,09,Luwa Khola,medium,1.0,0.0,26.9865,87.8982
+234,2013,06,"Buchi Village, Jagannath Vdc-5",large,0.0,2.0,28.4513,82.2801
+235,2015,04,Baluwa bazaar at Simjung-9,large,0.0,0.0,28.1436,84.6979
+236,2011,07,Kathmandu,medium,1.0,0.0,27.703,85.3183
+237,2008,08,Dahachaur of Sukatiya-8,medium,8.0,0.0,29.9,81.1333
+238,2010,07,Syangja,medium,0.0,0.0,28.0306,83.8617
+239,2010,09,Dolakha,medium,0.0,0.0,27.59,86.1
+240,2010,10,Sattale of Tulsipur Municipality-1 along the Rapti Highway,medium,0.0,0.0,28.1906,82.314
+241,2016,06,Narayangadh-Muglin road at Seti Dovan,medium,0.0,0.0,27.8178,84.4443
+242,2016,07,Lamjung,large,0.0,0.0,28.1321,84.4723
+243,2010,06,"Siddhababa, Donovan-5(?), Siddhartha highway between Tansen and Butwal",medium,0.0,0.0,27.7223,83.4763
+244,2010,08,Syangja,medium,1.0,0.0,28.0401,83.8901
+245,2011,07,Narayani,medium,0.0,0.0,27.6991,84.4179
+246,2016,06,Darchula,medium,1.0,0.0,29.7535,80.4934
+247,2007,09,Kalikot,medium,2.0,0.0,29.184,81.6018
+248,2008,08,Kalikot,medium,6.0,0.0,29.1964,81.7557
+249,2010,09,"Bastitar village(?), Mahankal VDC, Sinhupalchowk district",medium,0.0,0.0,27.8916,85.5036
+250,2015,07,Hetauda-Kulekhani road,small,0.0,0.0,27.6314,85.0813
+251,2013,09,Baglung,medium,0.0,0.0,28.3962,83.2549
+252,2016,07,Bajura,large,0.0,0.0,29.4578,81.4655
+253,2015,05,trail between Phillim and Lokpa,small,0.0,0.0,28.4202,84.8996
+254,2016,07,Bhojpur,large,0.0,0.0,27.1861,87.1305
+255,2009,09,Dolakha,medium,2.0,0.0,27.7667,86.1334
+256,2013,09,Baglung,medium,0.0,0.0,28.4493,82.9305
+257,2014,11,Modikhola Hydropower Project,small,0.0,0.0,28.2724,83.7412
+258,2010,08,Dang,medium,0.0,0.0,28.3884,82.2826
+259,2011,07,Parbat,medium,0.0,0.0,28.178,83.6987
+260,2010,08,Kalikot,medium,7.0,0.0,29.0834,81.5834
+261,2012,09,"Salleri, Phakhel VDC-3 ",medium,0.0,0.0,27.5002,86.5833
+262,2016,06,Nuwakot,medium,2.0,1.0,28.0022,85.133
+263,2012,08,Dhading,medium,0.0,0.0,27.9783,84.8982
+264,2010,08,Myagdi,medium,0.0,1.0,28.54162809,83.64496308000001
+265,2015,08,Nuwakot,medium,5.0,0.0,27.8884,85.2118
+266,2010,08,Bhaktapur,medium,1.0,0.0,27.6832,85.4434
+267,2013,07,Palpa,medium,2.0,0.0,27.8852,83.6275
+268,2011,07,Kaski,medium,2.0,0.0,28.2636,83.9724
+269,2011,09,Nuwakot,medium,1.0,0.0,27.891,85.149
+270,2009,08,Ilam,medium,4.0,0.0,26.908,87.9258
+271,2016,06,Rasuwa,medium,0.0,0.0,28.2465,85.3644
+272,2012,08,Ramechhap,large,0.0,0.0,27.3329,86.0798
+273,2013,08,Parbat,medium,0.0,0.0,28.2826,83.7508
+274,2011,07,Khotang,medium,1.0,0.0,27.2317,86.822
+275,2010,07,Dang,medium,0.0,0.0,28.2929,82.2617
+276,2016,09,"Ghattekhola, Timure",medium,0.0,0.0,28.2568,85.3679
+277,2015,07,Baglung,medium,0.0,0.0,28.2748,83.7432
+278,2011,07,Palpa,medium,0.0,0.0,27.7172,83.4658
+279,2010,09,Chitwan,medium,0.0,0.0,27.7884,84.4866
+280,2010,06,Chitwan,medium,0.0,0.0,27.822,84.4935
+281,2011,07,"Purtingkada village (320 kilometers west of the capital, Katmandu)",large,6.0,0.0,28.7956,82.2314
+282,2009,07,Tanahu,medium,3.0,0.0,27.9586,84.2805
+283,2016,01,Narayani Riverside Resort,medium,0.0,0.0,27.7657,84.4694
+284,2010,09,Gulmi,medium,0.0,0.0,28.058,83.3588
+285,2010,08,Tanahu,medium,0.0,0.0,28.0579,84.0719
+286,2010,09,Chitwan,medium,0.0,0.0,27.86624658,84.63118672
+287,2011,07,Khotang,medium,0.0,0.0,27.20517346,86.65683342
+288,2011,07,Palpa,medium,0.0,0.0,27.7,83.45
+289,2014,08,Bara,medium,5.0,2.0,27.8609,85.7763
+290,2010,07,Baglung,medium,0.0,0.0,28.3034,83.3773
+291,2015,07,Kaski,medium,6.0,13.0,28.2656,83.8188
+292,2016,08,Keyarpani of Soti Bazaar in Thumi VDC,medium,1.0,0.0,28.1314,84.8272
+293,2013,07,Khundi Khola (River) at Ghan Pokhara Vdc-8,medium,0.0,0.0,28.33321816,84.33062283000001
+294,2008,07,Saptari,large,0.0,0.0,27.0,86.71
+295,2014,08,Parbat,medium,3.0,0.0,28.2322,83.7228
+296,2013,06,Baitadi,medium,0.0,0.0,29.722,80.5118
+297,2016,06,"Dhungre, Daldale-Bulingtar road, Nepal",medium,0.0,0.0,27.0927,85.5502
+298,2009,09,Baglung,medium,2.0,0.0,28.28,83.55
+299,2013,06,Jumla,medium,0.0,0.0,29.0697,82.106
+300,2010,08,Taplejung,medium,0.0,0.0,27.2948,87.9377
+301,2007,08,Dhading,medium,6.0,0.0,27.863,84.914
+302,2007,09,Baitadi,medium,0.0,0.0,29.5333,80.4333
+303,2016,07,Pyuthan,medium,3.0,0.0,28.2324,83.0006
+304,2013,06,Kalikot,large,12.0,2.0,29.3167,81.5833
+305,2008,08,Reep village in Chowk Chisapani VDC-8,medium,3.0,0.0,28.089,84.4125
+306,2016,07,Pyuthan,medium,0.0,3.0,28.1836,82.8643
+307,2016,07,Taplejung,medium,0.0,0.0,27.5138,87.8086
+308,2007,03,Salyan,medium,0.0,0.0,28.3667,82.1667
+309,2015,07,Pokhara,medium,1.0,12.0,28.1996,84.0011
+310,2015,07,Lumle,medium,27.0,18.0,28.3037,83.8005
+311,2011,07,Khotang,medium,0.0,0.0,27.30669194,86.77497513
+312,2013,06,Baglung,medium,0.0,0.0,28.2265,82.553
+313,2014,12,Rank VDC-2,medium,2.0,0.0,28.3685,82.3731
+314,2013,06,"Sainpasela, Malumela Vdc",medium,0.0,0.0,29.5388,80.9963
+315,2014,08,Bus park area of Lincon Bazaar in Jiri,medium,4.0,9.0,27.6363,86.2326
+316,2007,09,Darchula,medium,0.0,0.0,29.8496,80.5544
+317,2015,07,Lampata of Babiyachaur VDC-5,medium,0.0,0.0,28.3853,83.4625
+318,2016,06,Rasuwa,small,0.0,0.0,27.758,85.4197
+319,2010,09,Banke,medium,1.0,0.0,28.1981,81.8494
+320,2010,07,Myagdi,medium,0.0,0.0,28.4763,83.5309
+321,2010,08,Nawalparasi,medium,0.0,0.0,27.58124358,83.85213651000001
+322,2016,07,Ramechhap,large,0.0,0.0,27.5072,86.1424
+323,2013,07,Kalika Secondary School In Kapurkot Of Dhanwang Vdc,medium,0.0,0.0,28.2318,82.3527
+324,2016,08,"Karnali Highway, Near Manma",medium,0.0,0.0,29.139,81.623
+325,2016,07,Palpa,medium,1.0,0.0,27.7625,83.5165
+326,2007,08,Kathmandu,medium,0.0,0.0,29.57990613,80.50476155
+327,2009,08,"Jogbuda-4, Malas",medium,0.0,0.0,29.0958,80.3125
+328,2013,09,Baglung,medium,0.0,0.0,28.2632,83.3482
+329,2009,08,Dadeldhura,medium,1.0,0.0,29.1917,80.8708
+330,2010,09,Udayapur,medium,0.0,0.0,26.9796,86.7001
+331,2011,08,Kalikot,medium,0.0,0.0,29.1832,81.5999
+332,2008,08,Pyuthan,medium,2.0,0.0,28.0993,82.8332
+333,2013,08,Khimti Village,medium,7.0,6.0,27.4907,86.1078
+334,2008,12,Bajura,medium,3.0,0.0,29.3559,81.3097
+335,2014,08,Syalapakhala VDC,medium,1.0,0.0,28.6985,82.7065
+336,2012,09," Prithvi Highway,Titrang,Mauwakhola, Jogimara VDC-2",medium,0.0,0.0,27.7923,84.7001
+337,2013,11,Syangja,very_large,0.0,0.0,27.9449,83.5109
+338,2007,09,Kaski,large,6.0,0.0,28.2333,83.9533
+339,2014,07,Baglung,small,0.0,0.0,28.3048,83.6011
+340,2010,09,Bara,medium,0.0,0.0,27.7513,85.8166
+341,2014,08,Mankha,large,174.0,52.0,27.7702,85.8692
+342,2015,09,Mechi Highway,medium,0.0,0.0,26.8797,87.9172
+343,2013,06,Baitadi,medium,5.0,0.0,29.5193,80.4687
+344,2008,09,Sisuwa and Tamku VDCs in the northern part of Sankhuwasabah,medium,0.0,0.0,27.7649,87.199
+345,2014,08,Sindhupalchok,medium,4.0,0.0,27.8868,85.5107
+346,2010,10,Kailali,medium,2.0,3.0,28.7038,80.9787
+347,2008,06,Mustang,medium,0.0,0.0,28.57,83.45
+348,2013,09,Dhuskun Of Sindupalchowk District,medium,2.0,0.0,27.772,85.9052
+349,2015,07,Beni-Maldhunga road at Pang,medium,0.0,0.0,28.2635,83.6118
+350,2014,06,Pyuthan,medium,9.0,0.0,28.0054,82.68
+351,2008,09,Kathmandu,medium,1.0,0.0,27.777,85.3717
+352,2014,07,Manma,small,1.0,0.0,29.1491,81.6165
+353,2010,08,Dolakha,medium,6.0,0.0,27.6661,86.0332
+354,2015,07,Sindhupalchok,medium,0.0,0.0,27.7768,85.8888
+355,2015,06,Chyamrangbesi VDC-1 in Kavre district,medium,0.0,0.0,27.4916,85.4416
+356,2008,09,Kailali,medium,26.0,0.0,28.833,80.9
+357,2009,07,Mugu,medium,3.0,0.0,29.7225,82.5068
+358,2010,07,Kaski,medium,0.0,0.0,28.299,84.0366
+359,2015,07,Road between Barpak and Muchok,small,0.0,0.0,28.1046,84.6634
+360,2016,07,"Maglungkhola Hydro Project, Gumda, Nepal",medium,0.0,0.0,28.2317,84.8756
+361,2011,07,"(Landslips occurred in Pokhari, Arkhala, Dhugre, Kamalikot) Kawasoti",medium,0.0,0.0,27.6454,84.125
+362,2010,07,Kaski,medium,3.0,0.0,28.22020061,84.17758452
+363,2010,06,Sankhuwasabha,medium,0.0,0.0,27.6063,87.2196
+364,2013,06,Kathmandu,medium,0.0,0.0,27.8196,85.2114
+365,2008,08,Bajura,medium,4.0,0.0,29.3833,81.3167
+366,2012,03,Dhading,medium,1.0,0.0,28.1038,85.0548
+367,2007,07,Baglung,medium,0.0,0.0,28.2168,83.6666
+368,2008,08,Tanahu,medium,3.0,0.0,28.10025822,84.42143526000001
+369,2010,08,Kaski,medium,4.0,0.0,28.2598,84.0999
+370,2016,07,Gorkha,medium,3.0,3.0,28.298,84.9671
+371,2008,09,Western Nepal,medium,0.0,0.0,29.11916258,81.06654395000001
+372,2011,09,Ramechhap,medium,3.0,0.0,27.3824,86.0567
+373,2015,06,Thade Rivulet at Simkharka of Maijhuwa-4,medium,0.0,0.0,26.9071,87.9217
+374,2011,07,"Sisuwakhola, Masyam-5",medium,1.0,0.0,27.6264,83.3789
+375,2013,07,Syangja,medium,1.0,0.0,27.9196,83.8799
+376,2015,11,Gulmi,medium,3.0,0.0,28.1281,83.3841
+377,2017,06,Dolakha,large,4.0,0.0,27.66868142,86.04142972999999
+378,2015,07,Tutung in Mudi-8  http://kathmandupost.ekantipur.com/news/2015-07-30/six-dead-in-myagdi-landslides.html,medium,5.0,0.0,28.5167,83.3426
+379,2016,09,Rasuwa,medium,0.0,0.0,28.2183,85.3573
+380,2008,08,Sankhuwasabha,medium,1.0,0.0,27.499,87.106
+381,2008,07,Dhading,medium,8.0,0.0,28.9,80.87
+382,2014,09,Talamarang Bazaar-Batase road at Jagarkot,medium,0.0,0.0,27.8519,85.5248
+383,2011,09,"Sulichaur village,Nepal",medium,7.0,0.0,28.25,82.7311
+384,2013,07,Dhankuta,medium,0.0,0.0,26.9734,87.3412
+385,2009,10,Parbat,medium,4.0,0.0,28.1778,83.7
+386,2007,08,Gulmi,medium,2.0,0.0,28.0667,83.25
+387,2011,07,Sanfe-Mangalsen road,medium,0.0,0.0,29.1265,81.2574
+388,2013,08,Gorusinge-Sandhikharkha Road,medium,0.0,0.0,27.8664,83.1036
+389,2010,07,Doti,medium,0.0,0.0,29.2675,80.9499
+390,2014,07,Far-Western Development Region,medium,2.0,0.0,29.2777,80.9871
+391,2013,09,"Budhimorang, Eastern Region",medium,0.0,0.0,26.9149,87.3372
+392,2013,07,"Bartung-Ramdi Section, Siddhartha Highway",medium,0.0,0.0,27.859,83.6014
+393,2015,06,Taplejung,large,15.0,0.0,27.5905,87.7955
+394,2016,04,Nar VDC,small,1.0,0.0,28.678,84.2297
+395,2007,08,Khotang,medium,0.0,0.0,27.016,86.85
+396,2015,07,Dikhurpokhari VDC,medium,2.0,0.0,28.2798,83.8494
+397,2011,07,Arghakhanchi,medium,2.0,0.0,27.7395,83.5753
+398,2010,09,Palpa,medium,0.0,0.0,27.9333,83.653
+399,2011,08,Solukhumbu,medium,5.0,0.0,27.6674,86.7174
+400,2014,07,Surkhet,small,0.0,0.0,28.6881,81.6309
+401,2013,06,Kalikot,medium,2.0,1.0,29.378,81.3559
+402,2015,06,Kathmandu,small,0.0,0.0,27.7786,85.3867
+403,2013,06,Terhathum,medium,0.0,0.0,27.1418,87.7788
+404,2016,07,"Pharping-Kulekhani road in Phakel, Makwanpur District, Nepal",medium,0.0,0.0,27.6019,85.225
+405,2013,06,Sindhuli,medium,1.0,0.0,28.2717,83.5906
+406,2015,05,trail between Phillim and Lokpa,small,0.0,0.0,28.4202,84.8996
+407,2012,08,Bhojpur,medium,0.0,0.0,27.404,87.065
+408,2012,10,"Dhupu VDC ,  ",large,5.0,0.0,27.4191,87.2714
+409,2015,07,Myagdi,medium,1.0,0.0,28.5266,83.2765
+410,2011,07,"north of Pattal Bhumeshwor, situated at Basulinga VDC of Baidati district",medium,0.0,0.0,29.5194,80.469
+411,2010,09,"Muglin(Mugling)-Naubise part of Prithvi highway,",medium,0.0,0.0,27.7948,84.8566
+412,2015,06,Baglung,medium,1.0,0.0,28.2974,83.8
+413,2016,07,Bhojpur,large,0.0,0.0,27.1979,87.0809
+414,2009,10,"Siddhesory VDCs and Bindavasini VDCs villages, Accham district",medium,3.0,0.0,29.2611,81.1833
+415,2013,05,Kathmandu,medium,1.0,2.0,27.7366,85.3305
+416,2011,07,Palpa,medium,0.0,0.0,27.8173,83.4644
+417,2016,06,Sindhupalchok,medium,0.0,5.0,27.8027,85.9149
+418,2011,08,Tanahu,medium,0.0,0.0,27.9604,84.2231
+419,2013,07,"Tansen-Tamghas Section, Siddhartha Highway",medium,0.0,0.0,27.9706,83.397
+420,2009,07,Tanahu,medium,3.0,0.0,27.9582,84.2726
+421,2016,07,Parbat,medium,1.0,8.0,28.1855,83.6527
+422,2011,07,Bhojpur,medium,0.0,0.0,27.1722,87.0479
+423,2013,07,Nawalparasi,medium,5.0,0.0,27.6746,83.7533
+424,2015,06,Sertung,small,0.0,0.0,28.172,85.0852
+425,2013,09,Chokati Of Sindupalchowk District,medium,3.0,0.0,27.7757,85.9614
+426,2011,08,Rukum,medium,0.0,0.0,28.6572,82.2345
+427,2010,09,"Araniko hwy, between Bandeu and Tatopani, Bagmati",medium,0.0,0.0,27.8143,85.8315
+428,2015,04,Langtang Valley,large,60.0,0.0,28.2064,85.575
+429,2008,07,Sankhuwasabha,medium,0.0,0.0,27.6,87.24
+430,2015,04,Between Mungling and Narayanghat,small,6.0,10.0,27.7908,84.4783
+431,2011,08,Kalikot,medium,0.0,0.0,29.2385,81.7285
+432,2010,08,Gulmi,medium,0.0,0.0,28.0276,83.3164
+433,2014,08,Finam-6,medium,2.0,7.0,28.0081,84.6476
+434,2016,06,KI Singh Highway,medium,0.0,0.0,29.3038,80.6581
+435,2010,07,Baglung,medium,3.0,0.0,28.4197,83.1421
+436,2011,08,Modikhola Hydro Project,medium,0.0,0.0,28.2719,83.7405
+437,2013,09,Dhankuta,medium,0.0,0.0,26.9318,87.3201
+438,2011,08,Baitadi,medium,2.0,0.0,29.2027,80.5307
+439,2016,09,Gorkha,medium,4.0,17.0,28.3131,84.9895
+440,2008,08,Kalikot,medium,0.0,0.0,29.2,81.7
+441,2013,07,Dolakha,medium,0.0,0.0,27.7713,86.166
+442,2016,10,Sindhupalchok,medium,3.0,2.0,27.7759,85.8701
+443,2009,08,Mechi Highway at Siteni of Kolbu-9 (Kolbung??),medium,0.0,0.0,26.8042,88.125
+444,2010,08,Dang,medium,0.0,0.0,27.7592,82.6335
+445,2007,08,Gulmi,medium,3.0,0.0,28.0877,83.0971
+446,2011,07,Khotang,medium,0.0,0.0,27.26132994,86.77220558
+447,2008,08,Amkot in Brahmatola VDC ward-2 ,large,10.0,0.0,29.428,81.28
+448,2013,09,"Mahabharat, Eastern Region",medium,0.0,0.0,26.8988,87.2773
+449,2014,08,Rolpa,medium,3.0,0.0,28.3537,82.6184
+450,2010,12,Bajhang,medium,5.0,0.0,29.7415,81.2467
+451,2014,06,Bajura,medium,3.0,0.0,29.5442,81.6254
+452,2007,07,Baglung,medium,7.0,0.0,28.1952,83.6099
+453,2015,08,Palpa,medium,3.0,0.0,27.7185,83.47
+454,2014,07,Sindupalchowk,small,6.0,5.0,27.9411,85.6838
+455,2016,07,Solukhumbu,large,0.0,0.0,27.7009,86.726
+456,2011,08,Rolpa,medium,3.0,0.0,28.7014,82.6513
+457,2014,08,Surkhet,large,0.0,0.0,28.61209203,81.64645269
+458,2016,07,Bajhang,large,0.0,0.0,29.8825,81.2603
+459,2007,09,Saghutar in Rammechap District,medium,0.0,0.0,27.3258,86.087
+460,2009,12,Bajhang,medium,1.0,0.0,29.48,80.94
+461,2016,07,Okhaldhunga,unknown,0.0,0.0,27.3027,86.5079
+462,2007,09,Naubise-Simbhanjyang stretch of the Tribhuwan Highway,medium,9.0,0.0,27.5964,85.1114
+463,2013,09,Baglung,medium,0.0,4.0,28.4505,83.342
+464,2008,07,Pasang Lhamu Highway at Ramche,medium,0.0,0.0,27.09,86.37
+465,2016,10,Sapatakoshi Bridge,medium,0.0,0.0,26.8772,87.3215
+466,2011,08,Kathmandu,medium,2.0,0.0,28.3594,82.1279
+467,2013,06,"Kuntiwandali-3, Accham, Western Region",medium,2.0,3.0,29.0508,81.3
+468,2011,08,Jumla,medium,0.0,0.0,29.139,81.773
+469,2016,05,"along Narayangadh-Muglin, Jalbire, Nepal",small,0.0,0.0,27.8187,85.7734
+470,2014,08,Bairagi Thanti Bazaar,medium,0.0,0.0,28.6792,82.6789
+471,2016,10,Gulmi,medium,0.0,0.0,28.0461,83.2627
+472,2013,07,Myagdi,medium,2.0,0.0,28.3341,83.4966
+473,2016,08,Ilam,medium,0.0,0.0,26.7903,88.11
+474,2008,09,Nuwakot,medium,2.0,0.0,27.7167,85.15
+475,2011,07,Bhojpur,medium,0.0,0.0,27.21819015,86.91913823
+476,2014,08,Nuwakot,medium,3.0,0.0,27.8315,85.1638
+477,2010,08,Dang,medium,0.0,0.0,27.9937,82.4827
+478,2009,12,Palpa,medium,4.0,0.0,27.7211,83.4692
+479,2014,08,Sakla-3,medium,2.0,3.0,28.9429,82.3354
+480,2007,09,Baglung,medium,0.0,0.0,28.4167,83.6667
+481,2008,07,Nuwakot,medium,2.0,0.0,27.92,85.19
+482,2010,09,Kathmandu,medium,0.0,0.0,27.7745,85.2401
+483,2015,05,Kathmandu,small,0.0,0.0,27.8287,85.5763
+484,2014,07,Gorkha,small,0.0,0.0,27.9995,84.6333
+485,2008,08,Lamjung,medium,0.0,0.0,28.278,84.35
+486,2016,06,Chitwan,small,0.0,0.0,27.832,84.5423
+487,2007,09,Sindhupalchok,medium,0.0,0.0,27.7667,85.7
+488,2014,08,Rangrung Hydropower Project at Barpak VDC,medium,0.0,0.0,28.2045,84.7387
+489,2010,09,"Khadichowr village(?), Mankha VDC, Sinhupalchowk district",medium,0.0,0.0,27.7838,85.8369
+490,2011,08,Kalikot,medium,0.0,0.0,29.1657,81.5631
+491,2014,04,Upper Madi hydroelectric project,medium,3.0,0.0,28.3511,84.1176
+492,2013,07,Syangja,large,1.0,0.0,27.9687,83.9066
+493,2011,07,Sindhupalchowk,small,0.0,0.0,27.9512,85.6846
+494,2016,08,Dhading,medium,0.0,0.0,27.805,84.9005
+495,2013,06,Myagdi,medium,0.0,0.0,28.3952,83.5043
+496,2010,09,Arghakhanchi,medium,0.0,0.0,27.8808,83.3395
+497,2010,10,Taplejung,medium,1.0,0.0,27.6291,87.9436
+498,2011,07,Dumre-Besisahar Road,medium,0.0,0.0,27.9654,84.4107
+499,2016,07,Myagdi,medium,0.0,0.0,28.6019,83.3378
+500,2008,06,Dhading,medium,4.0,0.0,28.18,85.11
+501,2015,03,Humla,medium,0.0,0.0,30.1818,81.4392
+502,2011,09,Rukum,medium,7.0,0.0,28.7773,82.4728
+503,2013,07,Palpa,medium,1.0,1.0,27.8686,83.6606
+504,2008,08,Kathare in Barbhanjyang VDC-8,medium,2.0,0.0,28.03,84.2945
+505,2014,07,Dhading,medium,0.0,2.0,27.9639,84.8981
+506,2008,08,"Simaltar in Chandibhanjyag VDC-9, Jalbire on Narayangadh-Mugling stretch of the road",medium,0.0,0.0,27.795,84.432
+507,2011,07,Dumre-Bandipur Road,medium,0.0,0.0,27.9507,84.415
+508,2010,08,Ilam,medium,0.0,0.0,27.1303,87.8711
+509,2008,07,Jajarkot,large,10.0,0.0,28.7236,82.1515
+510,2008,08,Bhojpur,large,3.0,0.0,27.4385,87.0898
+511,2015,07,Sindhuli,small,2.0,0.0,27.0483,86.3248
+512,2013,06,Palpa,medium,0.0,0.0,27.8595,83.7711
+513,2009,09,Bhojpur,medium,1.0,0.0,27.425,87.0569
+514,2015,05,Singati,medium,28.0,10.0,27.7368,86.1636
+515,2007,08,Rukum,medium,0.0,0.0,28.6167,82.6167
+516,2012,05,Pokhara,large,72.0,0.0,28.52206817,84.07696086
+517,2013,07,Solukhumbu,medium,0.0,0.0,27.62,86.84
+518,2017,07,Syangja,medium,0.0,0.0,27.9726582,83.76126893
+519,2016,06,Tanahu,large,0.0,0.0,27.9869,84.2765
+520,2013,06,"Beni-Darbang Road Section, Phaparkhet",medium,0.0,0.0,28.376,83.4946
+521,2014,08,Sankhuwasabha,medium,6.0,0.0,27.4083,87.2739
+522,2016,07,Khotang,medium,0.0,0.0,27.1748,86.775
+523,2016,07,nan,unknown,40.0,20.0,28.0095,83.8669
+524,2016,09,Sindhuli,medium,0.0,0.0,27.357968,85.975127
+525,2017,06,"Charkilo (??), Narayani Zone, Nepal",small,0.0,0.0,27.795325910000003,84.43283218
+526,2016,09,Rasuwa,medium,0.0,0.0,28.18269,85.34304900000001
+527,2016,09,"near Fyanglum, Shyafru-Timure section, Nepal-China Gyirong highway, Nepal",unknown,0.0,0.0,28.2622,85.37312499999999
+528,2016,10,"Okhareni, Tamghas, Nepal",large,0.0,0.0,28.064974000000003,83.244916
+529,2016,09,"Lekhani, Nepal",unknown,0.0,0.0,27.140584,86.39896399999999
+530,2016,09,Baglung,medium,4.0,0.0,28.282927,83.58315400000001
+531,2016,09,"Khandbari, Nepal",small,1.0,0.0,27.340009,87.196504
+532,2017,07,"Martadi, Seti",small,0.0,0.0,29.44260809,81.58545459000001
+533,2016,09,"Shantipur, Nepal",medium,1.0,5.0,28.101232,83.405823
+534,2016,09,Dhankuta,small,1.0,2.0,26.985606,87.322163
+535,2017,06,"Daman, Narayani Zone, Nepal",small,0.0,0.0,27.61274095,85.09556375
+536,2016,09,Gorkha,medium,0.0,0.0,28.471897,84.811891
+537,2017,04,"Darechok, Narayani, Nepal",small,0.0,0.0,27.85256028,84.55829403
+538,2017,07,"Talkot, Bhajang District, Nepal",medium,0.0,0.0,29.61896246,81.322472
+539,2017,07,"Rayale, Panauti Municipality, Nepal",medium,1.0,0.0,27.56884999,85.50492198
+540,2017,07,"Kabilas, Narayani",medium,0.0,0.0,27.79280733,84.43347027
+541,2017,05,"Dhansira, Ghyachok, Gandaki",small,0.0,0.0,28.21798862,84.71592278
+542,2017,07,Rasuwa,medium,0.0,0.0,28.13673979,85.31637561
+543,2017,07,Bajhang,large,0.0,0.0,29.48397512,81.03043256
+544,2017,06,"Bagjhora, Narayani Zone, Nepal",medium,0.0,0.0,27.48969875,85.05138733
+545,2017,03,"Mid-Hill Postal Highway, Daram River, Manewa, Righa VDC-7, Righa, Nepal",medium,1.0,0.0,28.190436,83.332177
+546,2017,07,Bara,small,0.0,0.0,29.34137027,81.30954554
+547,2017,07,Bajura,medium,0.0,0.0,29.39496837,81.37064669
+548,2016,09,Baglung,medium,0.0,0.0,28.219177,83.686001
+549,2017,04,"Jiteghat (??), Kotbada, Karnali, Nepal",medium,4.0,0.0,29.16952271,81.57140362999999
+550,2017,06,"Kalikhola (??), Narayani Zone, Nepal",medium,4.0,1.0,27.8080337,84.43352419
+551,2017,03,Baglung,large,1.0,0.0,28.308297,83.17439300000001
+552,2018,05,"Tatopani, Bagmati",unknown,0.0,0.0,27.97999198,85.92966652
+553,2018,05,"Dobhan, Lumbini",medium,0.0,0.0,27.749223420000003,83.46256178
+554,2018,05,"Dobhan, Lumbini",medium,0.0,0.0,27.74602902,83.47972177
+555,2018,05,Bajhang,small,1.0,0.0,29.27910301,80.86335953
+556,2018,05,"Subeda area, Bahjang district, Nepal",medium,3.0,0.0,29.53013006,81.13982234999999
+557,2018,06,Chitwan,medium,0.0,0.0,27.717484430000003,84.44591267
+558,2017,08,Kathmandu,unknown,0.0,0.0,27.67978184,85.7300858
+559,2017,10,"Siddhartha Rajmarg, Dobhan 32907, Nepal",unknown,0.0,2.0,27.724416,83.469507
+560,2017,10,"Tinau rural muncipalty, Dobhan, Nepal.",medium,0.0,0.0,27.745307,83.468846
+561,2017,09,"Siddhartha Rajmarg, Butwal, Nepal.",medium,3.0,0.0,27.724234,83.469593
+562,2017,09,"Annapurna rural municipality-3, Beni - Jomsom Rd Beni 33200 Nepal.",medium,0.0,0.0,28.545124,83.647074
+563,2017,09,"Besisahar - Chame Sadak, Arkhale, Marsyangdi Rural Municipality, Nepal.",medium,0.0,0.0,28.3304035,84.3986218
+564,2016,07,"Tansen-Ridi-Tamghas Road, Bhangari, Dubichaur, Resunga 32600, Nepal",unknown,0.0,0.0,28.046302,83.26693900000001
+565,2017,09,Gulmi,medium,0.0,0.0,28.051791,83.260372
+566,2018,12,Rasuwa,small,0.0,0.0,28.111965,85.31099807000001
+567,2018,12,Rasuwa,small,0.0,0.0,28.111965,85.31099807000001
+568,2018,09,"Beni, Arthunge, Dhawalagiri",unknown,1.0,3.0,28.34849575,83.55352832
+569,2018,08,"Mahendra Rajmarg, Kabilas, Narayani",small,0.0,0.0,27.76322275,84.4711036
+570,2018,08,"Kabilas, Narayani. Bharatpur metropolis-29, Ghumaune and Ichhakamana municipality-6, Jalbire",small,0.0,0.0,27.824193410000003,84.46603959
+571,2018,08,"Ichhakamana Rural Municipality-6, Jalbire",small,0.0,0.0,27.81856897,84.46740047
+572,2018,08,Besi Shahar-Chame road,medium,0.0,0.0,28.17096627,84.43234852
+573,2018,08,Bajura,large,0.0,0.0,29.35855118,81.34031998
+574,2018,08,Jajarkot,unknown,9.0,0.0,28.82707703,82.39104977000001
+575,2018,08,Jajarkot,medium,1.0,12.0,28.69472685,82.21129644
+576,2018,08,along Kali River between Nazang and Mangti,unknown,1.0,0.0,29.85124503,80.55415467
+577,2018,09,"Baphukhola, Bagchaur, Saylan, Nepal",medium,3.0,0.0,28.5051914,82.39631686999999
+578,2018,08,"Barhabise, Bagmati, Nepal",unknown,0.0,0.0,27.79444886,85.91077939
+579,2018,09,Nuwakot,unknown,0.0,0.0,27.96216117,83.05240785000001
+580,2018,09,Jajarkot,large,8.0,0.0,28.87534178,82.15647284
+581,2018,09,Jajarkot,large,0.0,0.0,28.94010644,82.9030682
+582,2016,07,"Zhangzangbo River, north of Tatopani, Tibet Autonomous Region, China",large,0.0,0.0,27.97817251,85.9678251
+583,2016,07,"Zhangzangbo River, north of Tatopani, Tibet Autonomous Region, China",large,0.0,0.0,27.97116855,85.95418782
+584,2018,09,Lamjung,large,2.0,0.0,28.45603884,84.23280357
+585,2018,09,Lamjung,large,2.0,0.0,28.29658406,84.38187226
+586,2020,09,Sindhupalchok,small,11.0,0.0,27.82936,85.54504
